@@ -1,0 +1,16 @@
+name: skills-hello-github-actions
+id: ari:cloud:compass:4c980b7e-a4bb-46d5-8aa0-f211524278f0:component/bf311a47-a9a6-41f6-87ac-41a380fbefe3/b764df6e-0259-43ad-b4aa-a92d69fcaf53
+description: My clone repository
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Qasura-H/skills-hello-github-actions
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
